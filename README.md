@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kookkai-code
-- 👀 I’m interested in the computer science.
+- 👀 I’m interested in the computer science subject.
 - 🌱 I’m currently learning to make the website.
 - 😄 Pronouns: She/her
 
